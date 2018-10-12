@@ -1,0 +1,9 @@
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\obj\x86\Debug\TransportasiBoy.Form1.resources
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\obj\x86\Debug\TransportasiBoy.Resources.resources
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\obj\x86\Debug\TransportasiBoy.vbproj.GenerateResource.Cache
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\bin\Debug\TransportasiBoy.exe
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\bin\Debug\TransportasiBoy.pdb
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\bin\Debug\TransportasiBoy.xml
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\obj\x86\Debug\TransportasiBoy.exe
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\obj\x86\Debug\TransportasiBoy.xml
+D:\BOYHAQI_UTS_PV_IK2\TransportasiBoy\TransportasiBoy\obj\x86\Debug\TransportasiBoy.pdb
