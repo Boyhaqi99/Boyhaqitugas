@@ -14,4 +14,4 @@ $query = "UPDATE produk SET
 		mysql_query($query);
 		echo $query;
 		
-		//header("location:../index.php?mod=list");
+		header("location:../index.php?mod=list");
